@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1088814273596",
+    "firebase_url": "https://aweto-app-default-rtdb.firebaseio.com",
+    "project_id": "aweto-app",
+    "storage_bucket": "aweto-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088814273596:android:86bed910e72ba8f8a05f39",
+        "android_client_info": {
+          "package_name": "com.example.aweto_user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLzxX6MYDly3av5hZemLnfiZu5jIp1YuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
